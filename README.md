@@ -1,6 +1,6 @@
 # Cost-Aware AI Support Triage API
 
-FastAPI implementation of the app outlined in `Build a Cost-Aware AI Support Triage API with DigitalOcean Inference Router.pdf`.
+FastAPI implementation of a Triage API with DigitalOcean Serveless Inference's Inference Router. 
 
 The API exposes `POST /triage` and routes each support workflow step through a DigitalOcean Inference Router task:
 
