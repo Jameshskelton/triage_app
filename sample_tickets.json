@@ -1,0 +1,32 @@
+[
+  {
+    "subject": "Password reset",
+    "body": "How do I reset my password?"
+  },
+  {
+    "subject": "Invoice question",
+    "body": "Why was I charged twice on invoice INV-3382?"
+  },
+  {
+    "subject": "This is ridiculous",
+    "body": "Third time this week your dashboard has gone down during our standup. We're seriously evaluating alternatives."
+  },
+  {
+    "subject": "Dashboard weird",
+    "body": "The dashboard is weird since yesterday."
+  },
+  {
+    "subject": "Production outage",
+    "body": "Our team has been unable to access the dashboard since 09:14 UTC. Around 200 internal users are blocked. Logs attached show 502s from the API gateway, traced to repeated upstream timeouts.",
+    "customer_tier": "enterprise",
+    "account_id": "acct_ent_1042"
+  },
+  {
+    "subject": "Feature request + complaint",
+    "body": "Can you add bulk export? Also the existing export is too slow and crashes on more than 10k rows."
+  },
+  {
+    "subject": "API auth",
+    "body": "Getting 401s after rotating my key. Following the docs at /auth/rotate but the new key returns invalid."
+  }
+]
